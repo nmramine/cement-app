@@ -1,2 +1,3 @@
-# cement_orders_manager
-Php app for handling orders for cement factory
+# cement_app
+
+Php app for handling users and orders for a cement factory with admin section.
